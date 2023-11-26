@@ -1,0 +1,21 @@
+.container {
+  width: 70%;
+  margin: auto;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.container_1 img {
+  margin: 20px;
+  border-radius: 50%;
+}
+
+.container_1 p {
+  color: gray;
+}
